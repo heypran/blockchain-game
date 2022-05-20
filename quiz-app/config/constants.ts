@@ -9,5 +9,5 @@ export const contractAddresses: Record<string, Record<string, string>> = {
   },
 };
 
-export const CHAIN_ID = 83; // 80001,83
+export const CHAIN_ID = 80001;
 export const QUIZ_LENGTH = 4;

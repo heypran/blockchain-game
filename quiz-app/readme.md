@@ -9,13 +9,16 @@ Github: @heypran
 
 Technologies Used:
 
-Smart Contract deployed on Polygon for low transaction fees.
+Smart Contract deployed on Polygon - low transaction fees.
 
 Uses IPFS to store quiz details ( web3 storage), such as questions, options, titles etc. Later option to save notes and discussion threads will be added.
+Refer files `quiz-app/services/quizApi` and functions such as `createQuiz` , `getQuizByCid`.
 
 Frontend built using Antd framework, NextJs, React and Typescript.
 
-[Demo](https://youtu.be/NDrfNlxj5Wc)
+[Full Demo](https://youtu.be/NDrfNlxj5Wc)
+
+[IPFS Usage Demo](https://youtu.be/nIAMJQLiEKQ)
 
 [Website](https://quiz-dapp.web.app)
 
@@ -44,4 +47,6 @@ yarn
 yarn dev
 ```
 
-Note: you can provide your own contract address in `quiz-dapp/config/constants` and abi in `quiz-dapp/abi`
+Note: you can provide your own contract address in `quiz-app/config/constants` and abi in `quiz-app/abi`
+
+[IPFS Usage Demo](https://youtu.be/nIAMJQLiEKQ)
