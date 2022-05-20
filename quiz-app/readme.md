@@ -11,7 +11,7 @@ Technologies Used:
 
 Smart Contract deployed on Polygon for low transaction fees.
 
-Uses IPFS to store quiz details, such as questions, options, titles etc. Later option to save notes and discussion threads will be added.
+Uses IPFS to store quiz details ( web3 storage), such as questions, options, titles etc. Later option to save notes and discussion threads will be added.
 
 Frontend built using Antd framework, NextJs, React and Typescript.
 
